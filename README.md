@@ -1,6 +1,6 @@
 ![Test](https://github.com/zentered/frontformatter/workflows/Test/badge.svg)
 ![Semantic Release](https://github.com/zentered/frontformatter/workflows/Semantic%20Release/badge.svg?branch=main)
-[![view on npm](https://img.shields.io/npm/v/fluent-schema.svg)](https://www.npmjs.org/package/fluent-schema)
+[![view on npm](https://img.shields.io/npm/v/fluent-schema.svg)](https://www.npmjs.org/package/frontformatter)
 
 # Front Formatter
 
