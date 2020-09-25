@@ -1,3 +1,6 @@
+![Semantic Release](https://github.com/zentered/frontformatter/workflows/Semantic%20Release/badge.svg?branch=main)
+[![view on npm](https://img.shields.io/npm/v/fluent-schema.svg)](https://www.npmjs.org/package/fluent-schema)
+
 # Front Formatter
 
 If you work with [hugo](https://gohugo.io), [11ty](https://www.11ty.dev) or any other static site generator, you'll likely end up with a lot of Markdown files after a while.
