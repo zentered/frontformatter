@@ -12,14 +12,21 @@ This script helps to migrate, add or remove properties from Markdwon frontmatter
 
 Specify a source folder or copy your markdown files into `src`. You can define properties to add and remove, then run the transformation function:
 
-    const frontformatter = require('frontformatter')
+    const frontformatter = require('./frontformatter')
 
     const addProperties = {
       add: 'this'
     }
     const removeProperties = ['remove']
 
-    frontformatter('src', addProperties, removeProperties)
+    const markdownOptions = {
+      resultVersion: 3,
+      'first-line-heading': 2,
+      'no-empty-links': true
+    }
+
+    frontformatter('src', addProperties, removeProperties, markdownOptions)
+
 
 ## Acknowledgments
 
