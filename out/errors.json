@@ -1,0 +1,51 @@
+{
+  "another.md": {
+    "content": [
+      {
+        "lineNumber": 6,
+        "ruleNames": [
+          "MD041",
+          "first-line-heading",
+          "first-line-h1"
+        ],
+        "ruleDescription": "First line in file should be a top level heading",
+        "ruleInformation": "https://github.com/DavidAnson/markdownlint/blob/v0.21.0/doc/Rules.md#md041",
+        "errorDetail": null,
+        "errorContext": "Hello World!",
+        "errorRange": null
+      },
+      {
+        "lineNumber": 12,
+        "ruleNames": [
+          "MD042",
+          "no-empty-links"
+        ],
+        "ruleDescription": "No empty links",
+        "ruleInformation": "https://github.com/DavidAnson/markdownlint/blob/v0.21.0/doc/Rules.md#md042",
+        "errorDetail": null,
+        "errorContext": "[an empty link]()",
+        "errorRange": [
+          1,
+          17
+        ]
+      }
+    ]
+  },
+  "demo.md": {
+    "content": [
+      {
+        "lineNumber": 6,
+        "ruleNames": [
+          "MD041",
+          "first-line-heading",
+          "first-line-h1"
+        ],
+        "ruleDescription": "First line in file should be a top level heading",
+        "ruleInformation": "https://github.com/DavidAnson/markdownlint/blob/v0.21.0/doc/Rules.md#md041",
+        "errorDetail": null,
+        "errorContext": "Hello World!",
+        "errorRange": null
+      }
+    ]
+  }
+}

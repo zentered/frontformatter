@@ -5,4 +5,10 @@ const addProperties = {
 }
 const removeProperties = ['remove']
 
-frontformatter('src', addProperties, removeProperties)
+const markdownOptions = {
+  resultVersion: 3,
+  'first-line-heading': 2,
+  'no-empty-links': true
+}
+
+frontformatter('src', addProperties, removeProperties, markdownOptions)

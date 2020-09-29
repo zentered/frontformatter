@@ -13,7 +13,7 @@ Hello World!
 `
 
   const expected = `---
-test: 'true'
+test: "true"
 add: this
 ---
 
@@ -44,7 +44,7 @@ Hello World!
 `
 
   const expected = `---
-test: 'true'
+test: "true"
 remove: me
 ---
 

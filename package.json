@@ -22,11 +22,12 @@
   "homepage": "https://github.com/zentered/frontformatter#readme",
   "dependencies": {
     "gray-matter": "^4.0.2",
+    "markdownlint": "^0.21.0",
+    "prettier": "^2.1.2",
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "jest": "^26.4.2",
-    "prettier": "^2.1.2"
+    "jest": "^26.4.2"
   },
   "jest": {
     "testEnvironment": "node"
