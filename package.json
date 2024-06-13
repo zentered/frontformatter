@@ -27,7 +27,7 @@
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^29.7.0"
   },
   "jest": {
     "testEnvironment": "node"
