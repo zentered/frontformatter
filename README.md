@@ -1,8 +1,6 @@
-![Test](https://github.com/zentered/frontformatter/workflows/Test/badge.svg)
-![Semantic Release](https://github.com/zentered/frontformatter/workflows/Semantic%20Release/badge.svg?branch=main)
-[![view on npm](https://img.shields.io/npm/v/frontformatter.svg)](https://www.npmjs.org/package/frontformatter)
-
 # Front Formatter
+
+> **Deprecated:** This package is no longer maintained.
 
 If you work with [hugo](https://gohugo.io), [11ty](https://www.11ty.dev) or any other static site generator, you'll likely end up with a lot of Markdown files after a while.
 
